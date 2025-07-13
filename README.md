@@ -18,4 +18,4 @@ A simple LSTM-based next word prediction model built using TensorFlow and Keras.
 
 1. Run the `NextWordPredictor.ipynb` notebook.
 2. Train the model using the provided dataset or your own.
-3. Use the prediction cell to enter a text input and get the next predicted word.
+3. Use the prediction cell to enter a text input and get the next predicted word
